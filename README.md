@@ -15,3 +15,6 @@ A simple Tetris clone built using Python and Pygame.
 Install requirements with:
 ```bash
 pip install pygame
+
+Run the game:
+python main.py
